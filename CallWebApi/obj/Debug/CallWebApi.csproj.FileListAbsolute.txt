@@ -1,0 +1,9 @@
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\bin\Debug\CallWebApi.exe.config
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\bin\Debug\CallWebApi.exe
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\bin\Debug\CallWebApi.pdb
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.csprojResolveAssemblyReference.cache
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.Form1.resources
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.Properties.Resources.resources
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.csproj.GenerateResource.Cache
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.exe
+c:\users\hoque\documents\visual studio 2013\Projects\CallWebApi\CallWebApi\obj\Debug\CallWebApi.pdb
